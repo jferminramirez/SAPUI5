@@ -1,0 +1,6 @@
+- Introduction to the basic development paradigms like Model-View-Controller and establish a best-practice structure of our application. 
+- A new app from scratch with classic example of “Hello World”. 
+- Introduction to the fundamental data binding concepts of SAPUI5.
+- App extension to display a list of invoices.
+- Include more functionality for navigation, extending controls, and app responsive.
+- Overview of testing features and the built-in support tools of SAPUI5.
