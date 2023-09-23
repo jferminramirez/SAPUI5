@@ -1,4 +1,4 @@
-This steps show how to create a simple Hello World! example with only HTML.
+This step show how to create a simple Hello World! example with only HTML.
 
 When this example is executed, "Hello World" text appear on the screen.
 
